@@ -13,5 +13,5 @@ ht-degree: 2%
 
 Este repositório documenta soluções que foram criadas pelo ACS para uso com AEM.
 
-![Logotipo ACS Commons](assets/acs-commons.png)
+![Logotipo do ACS Commons](assets/acs-commons.png)
 
