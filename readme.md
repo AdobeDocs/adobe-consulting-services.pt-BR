@@ -5,9 +5,9 @@ source-wordcount: '78'
 ht-degree: 74%
 
 ---
-# Serviços de consultoria Adobe
+# Serviços da Adobe Consulting
 
-Este é o repositório da documentação das soluções de AEM criadas e mantidas pelos Serviços de Consultoria Adobe (ACS).
+Este é o repositório da documentação das soluções da AEM criadas e mantidas pelos serviços da Adobe Consulting (ACS).
 
 Suas contribuições para a documentação são bem-vindas. Consulte os seguintes recursos:
 
