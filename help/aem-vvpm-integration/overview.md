@@ -2,7 +2,7 @@
 title: Visão geral da integração do Veeva Vault
 description: Visão geral da integração do Veeva Vault
 exl-id: 52cc7290-b7e1-4476-877f-48934e6daf68
-source-git-commit: 2e47baa4a255c34b3ca0b8631650dd5d8960fea8
+source-git-commit: b024e4295b5b37030c1524342832400c279c650a
 workflow-type: tm+mt
 source-wordcount: '692'
 ht-degree: 0%
@@ -33,22 +33,22 @@ Essa integração exige as seguintes versões mínimas de software:
 Essa integração foi projetada para suportar dois casos de uso principais:
 
 1. Aprovação de conteúdo - Quando um novo conteúdo for criado ou um conteúdo existente for editado no AEM, o conteúdo deverá ser aprovado para uso no VVPM, que dá suporte ao processo de aprovação médica, legal e regulamentar (MLR) para ciências biomédicas.
-1. Gerenciamento de conteúdo - fornece visibilidade da utilização de ativos estabelecendo relações em PromoMats entre táticas digitais (por exemplo, email, apresentações, sites) e seus elementos (por exemplo, logotipos, fotografia, gráficos) criados em AEM para documentos originários do AEM.
+1. Gerenciamento de conteúdo — forneça visibilidade da utilização de ativos estabelecendo relações em Promoções entre táticas digitais (por exemplo, email, apresentações, sites) e seus elementos (por exemplo, logotipos, fotografias, gráficos) criados no AEM para documentos originários do AEM.
 
 Os benefícios incluem:
 
 * Manutenção de uma única fonte da verdade para ativos e conteúdo sem duplicação em repositórios digitais.
 * Aproveitar o Veeva Vault para gerenciamento de direitos e conformidade e o AEM para o melhor da categoria e criação/entrega de ativos e conteúdo.
-* Ajuda a automatizar a movimentação de conteúdo e metadados entre AEM e Veeva Vault.
+* Ajuda a automatizar a movimentação de conteúdo e metadados entre o AEM e o Veeva Vault.
 * Reduz o esforço manual no envio de conteúdo para Veeva para workflows de aprovação.
 * Cada sistema é usado por seus pontos fortes e o conector auxilia na movimentação automática de conteúdo entre os sistemas para ajudar a acelerar o tempo de entrada no mercado.
 
 O que a integração faz?
 
-* Suporta o envio de páginas do site AEM, Assets, fragmentos de conteúdo e fragmentos de experiência para VPM. Páginas AEM, Fragmentos de conteúdo e Fragmentos de experiência podem ser enviados como PDF ou imagens de captura de tela. Os binários do AEM Assets são enviados como estão.
-* Oferece suporte à sincronização manual e automatizada de elementos de metadados selecionados que podem ser configurados de AEM para VPM.
+* Compatível com o envio de páginas do site do AEM, Assets, fragmentos de conteúdo e fragmentos de experiência para VPM. As páginas do AEM, os fragmentos de conteúdo e os fragmentos de experiência podem ser enviados como PDFs ou imagens de captura de tela. Os binários do AEM Assets são enviados como estão.
+* Oferece suporte à sincronização manual e automatizada de elementos de metadados selecionados que podem ser configurados do AEM para o VPM.
 * Oferece suporte à sincronização manual e automatizada de elementos de metadados selecionados que podem ser configurados de VPM para AEM.
-* Oferece suporte a relacionamentos entre AEM Site Pages, Assets, Fragmentos de conteúdo e Fragmentos de experiência no VPM para automatizar os relacionamentos de conteúdo.
+* Oferece suporte às relações entre AEM Site Pages, Assets, Fragmentos de conteúdo e Fragmentos de experiência no VPM para automatizar as relações de conteúdo.
 * Oferece suporte à geração de representação para vários tipos de dispositivos.
 
 >[!NOTE]
@@ -58,14 +58,14 @@ O que a integração faz?
 
 O que o conector NÃO faz?
 
-* Não reproduz processos e funcionalidades do AEM em Veeva ou vice-versa.
+* Não replica processos e funcionalidades do AEM em Veeva ou vice-versa.
 * Não faz a MLR por si só. Ele auxilia na automação do envio de conteúdo para Veeva para onde a MLR acontece.
-* Não deve ser usado para criar uma configuração idêntica entre AEM e Veeva. Nem todo o conteúdo precisa se mover entre as duas plataformas.
+* Não deve ser usado para criar uma configuração idêntica entre o AEM e o Veeva. Nem todo o conteúdo precisa se mover entre as duas plataformas.
 
 
 >[!IMPORTANT]
 >
->Essa integração considera atualmente o AEM como a fonte da verdade para a sincronização do conteúdo.
+>No momento, essa integração considera o AEM como a fonte da verdade para a sincronização de conteúdo.
 
 ## Obter a integração
 
@@ -87,7 +87,7 @@ A seguir, é descrito como entrar em contato e registrar um problema com a equip
 
 ### Solicitação de integração ou suporte do Adobe Experience Manager
 
-Os tíquetes de suporte podem ser registrados no Atendimento ao cliente do Adobe. O administrador do Adobe Experience Cloud precisará fazer logon no [Adobe Admin Console](https://adminconsole.adobe.com/), clicar na guia de suporte e criar um caso. Em caso de problemas de integração, inclua as seguintes informações:
+Os tíquetes de suporte podem ser registrados no Atendimento ao cliente da Adobe. O administrador do Adobe Experience Cloud precisará fazer logon no [Adobe Admin Console](https://adminconsole.adobe.com/), clicar na guia de suporte e criar um caso. Em caso de problemas de integração, inclua as seguintes informações:
 
 * **Título do processo**: `AEM - Veeva Vault Integration`
 * **Proprietário do Processo**: `Data Engineering`
@@ -99,4 +99,3 @@ Os tíquetes de suporte podem ser registrados no Atendimento ao cliente do Adobe
 ### Solicitação de suporte ao Veeva Vault PromoMats
 
 Às vezes, o problema que está sendo experimentado é um problema com a operação da instância Veeva Vault PromoMats. Se esse for o caso, o administrador do Veeva Vault PromoMats pode ser direcionado para criar um tíquete de suporte com o [Suporte do Veeva](http://support.veeva.com/). O status da instância Veeva pode ser visualizado navegando até [Veeva Trust](http://trust.veeva.com/).
-
