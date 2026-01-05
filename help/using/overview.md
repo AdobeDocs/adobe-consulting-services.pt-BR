@@ -1,8 +1,8 @@
 ---
 title: Visão geral dos serviços da Adobe Consulting
-description: Este repositório documenta soluções que foram criadas pelo ACS para uso com AEM.
+description: Este repositório documenta soluções que foram criadas pelo ACS para uso com o AEM.
 exl-id: ef3b1383-e06d-451c-921b-4593230cdcec
-source-git-commit: abad48f8e5957b0716b65a8bbd6643b9c449d46b
+source-git-commit: b024e4295b5b37030c1524342832400c279c650a
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 2%
@@ -11,7 +11,7 @@ ht-degree: 2%
 
 # Visão geral {#overview}
 
-Este repositório documenta soluções que foram criadas pelo ACS para uso com AEM.
+Este repositório documenta soluções que foram criadas pelo ACS para uso com o AEM.
 
 ![Logotipo do ACS Commons](assets/acs-commons.png)
 
