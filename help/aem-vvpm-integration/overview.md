@@ -2,7 +2,7 @@
 title: Visão geral da integração do Veeva Vault
 description: Visão geral da integração do Veeva Vault
 exl-id: 52cc7290-b7e1-4476-877f-48934e6daf68
-source-git-commit: b4261448e34cdcee9c28410a9d3cd8dbcc9212fa
+source-git-commit: 6c32bebb4eb628e355ae1437f450fb94ab9166b5
 workflow-type: tm+mt
 source-wordcount: '692'
 ht-degree: 0%
@@ -99,3 +99,4 @@ Os tíquetes de suporte podem ser registrados no Atendimento ao cliente da Adobe
 ### Solicitação de suporte ao Veeva Vault PromoMats
 
 Às vezes, o problema que está sendo experimentado é um problema com a operação da instância Veeva Vault PromoMats. Se esse for o caso, o administrador do Veeva Vault PromoMats pode ser direcionado para criar um tíquete de suporte com o [Suporte do Veeva](http://support.veeva.com/). O status da instância Veeva pode ser visualizado navegando até [Veeva Trust](http://trust.veeva.com/).
+
