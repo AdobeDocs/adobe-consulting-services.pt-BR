@@ -6,7 +6,7 @@ product_v2:
 usetq: true
 description: Consulta à documentação da Experience Manager
 type: Documentation
-git-repo: https://github.com/AdobeDocs/adobe-consulting-services.en
+git-repo: https://github.com/AdobeDocs/adobe-consulting-services.pt-BR
 index: true
 source-git-commit: e0159a3db7c79d12ee150be018ee5d005975b95a
 workflow-type: tm+mt
