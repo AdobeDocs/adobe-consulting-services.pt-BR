@@ -2,13 +2,14 @@
 title: Visão geral da integração do Veeva Vault
 description: Visão geral da integração do Veeva Vault
 exl-id: 52cc7290-b7e1-4476-877f-48934e6daf68
-source-git-commit: e192249d7c6485000cadb5389f555c9e98d8a83e
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+source-git-commit: 02aa1622ee171cd56ec9cdeb6bdef04b5d5464b5
 workflow-type: tm+mt
-source-wordcount: '692'
+source-wordcount: '695'
 ht-degree: 0%
-
 ---
-
 # Introdução ao Veeva Vault PromoMats e integração com o Adobe Experience Manager
 
 Essa integração gerenciará seu conteúdo, aplicando direitos e conformidade e aproveitando a primeira experiência do setor.
@@ -87,7 +88,7 @@ A seguir, é descrito como entrar em contato e registrar um problema com a equip
 
 ### Solicitação de integração ou suporte do Adobe Experience Manager
 
-Os tíquetes de suporte podem ser registrados no Atendimento ao cliente da Adobe. O administrador do Adobe Experience Cloud precisará fazer logon no [Adobe Admin Console](https://adminconsole.adobe.com/), clicar na guia de suporte e criar um caso. Em caso de problemas de integração, inclua as seguintes informações:
+Os tíquetes de suporte podem ser registrados no Atendimento ao cliente da Adobe. O administrador da Adobe Experience Cloud precisará fazer logon no [Adobe Admin Console](https://adminconsole.adobe.com/), clicar na guia Suporte e criar um caso. Em caso de problemas de integração, inclua as seguintes informações:
 
 * **Título do processo**: `AEM - Veeva Vault Integration`
 * **Proprietário do Processo**: `Data Engineering`
