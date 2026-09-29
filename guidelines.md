@@ -1,17 +1,16 @@
 ---
 source-git-commit: bdc8e76125282ab294e34c5216311524e015c175
 workflow-type: tm+mt
-source-wordcount: '740'
-ht-degree: 75%
-
+source-wordcount: '763'
+ht-degree: 1%
 ---
-# Diretrizes para colaboração na documentação dos serviços de consultoria do Adobe
+# Diretrizes para contribuir com a documentação dos serviços da Adobe Consulting
 
 ## Filosofia da documentação
 
-Sabemos que os usuários do Adobe Experience Manager trabalham em ambientes extremamente competitivos, esforçando-se para criar experiências digitais que as destaquem de seus concorrentes. Portanto, é essencial que, ao oferecer novas ferramentas avançadas para AEM, o ACS as complemente com documentação precisa e transparente para permitir que o cliente aproveite imediatamente seu investimento em AEM e potencialize o ROI.
+Sabemos que os usuários do Adobe Experience Manager trabalham em ambientes extremamente competitivos, esforçando-se para criar experiências digitais que as destaquem das de seus concorrentes. Portanto, é essencial que, ao oferecer novas ferramentas avançadas para o AEM, o ACS as complemente com documentação precisa e transparente para permitir que o cliente aproveite imediatamente seu investimento no AEM e potencialize o ROI.
 
-O objetivo é colocar a documentação do ACS nas mãos de usuários do AEM o mais rápido possível. Portanto, priorizamos uma documentação precisa e utilizável, e nos esforçamos para atualizá-la e aprimorá-la continuamente.
+O objetivo é colocar a documentação do ACS nas mãos dos usuários do AEM assim que possível. Portanto, priorizamos uma documentação precisa e utilizável, e nos esforçamos para atualizá-la e aprimorá-la continuamente.
 
 ## Contribuições à documentação
 
@@ -21,7 +20,7 @@ Para melhorar continuamente a documentação do ACS, toda a comunidade de usuár
 
 Embora contribuições à documentação do AEM sejam bem-vindas, sejam em formato de pull requests ou em formato de um problema, elas deverão estar em conformidade com nossos padrões de contribuição e de documentação.
 
-As contribuições que não cumprirem esses padrões poderão ser rejeitadas.
+As contribuições que não atenderem a esses padrões poderão ser rejeitadas.
 
 ### Nós documentamos casos de uso padrão.
 
@@ -35,37 +34,37 @@ As exceções a essa regra aplicam-se às notas de versão, nas quais problemas 
 
 ### As contribuições à documentação não se destinam a responder perguntas técnicas.
 
-Quaisquer ideias para melhorar a documentação do ACS são bem-vindas como contribuições. No entanto, comentários, problemas e pull requests destinam-se somente a *contribuições*, não para responder suas perguntas sobre como usar o AEM, implementar seu projeto do AEM ou resolver problemas técnicos.
+Quaisquer ideias para melhorar a documentação do ACS são bem-vindas como contribuições. No entanto, comentários, problemas e pull requests destinam-se somente a *contribuições*. Não são destinadas a responder suas perguntas sobre como usar o AEM, implementar seu projeto do AEM ou resolver problemas técnicos.
 
-Quaisquer dúvidas sobre o uso do AEM ou erros técnicos devem ser notificados por meio do processo normal de suporte pelo [portal Experience Cloud Enterprise Support](https://helpx.adobe.com/br/contact/enterprise-support.ec.html) ou discutidas na [comunidade do Experience Manager](https://forums.adobe.com/community/experience-cloud/marketing-cloud/experience-manager).
+Quaisquer dúvidas sobre o uso do AEM ou erros técnicos devem ser notificados por meio do processo normal de suporte pelo [portal Experience Cloud Enterprise Support](https://helpx.adobe.com/br/contact/enterprise-support.ec.html) ou discutidos na [comunidade Experience Manager](https://forums.adobe.com/community/experience-cloud/marketing-cloud/experience-manager).
 
-***As contribuições à documentação do ACS não substituem o Atendimento ao cliente do Adobe*** e quaisquer contribuições que buscam respostas para perguntas relacionadas a suporte serão rejeitadas.
+***As contribuições à documentação do ACS não substituem o Atendimento ao cliente da Adobe***. Logo, qualquer contribuição que buscar respostas a perguntas relacionadas a suporte será rejeitada.
 
-### As contribuições devem mencionar claramente as páginas pertinentes à documentação.
+### As contribuições devem mencionar claramente as páginas de documentação afetadas.
 
-Se você criar um problema para sugerir melhorias na documentação, deverá incluir links para as páginas afetadas. Caso crie um problema usando o link **Editar esta página** em uma página de documentação, o problema será criado automaticamente com um link para a página.
+Se você criar um problema para sugerir melhorias na documentação, deverá incluir links para as páginas afetadas. Se você criar um problema usando o link **Editar esta página** em uma página de documentação, o problema será criado automaticamente com um link para a página.
 
 Isso não se aplica a pull requests, que já fazem referência às páginas afetadas.
 
 ## Diretrizes de documentação
 
-Solicitamos que qualquer contribuição à nossa documentação siga determinados guias de estilo.
+Solicitamos que qualquer contribuição à nossa documentação siga determinadas diretrizes de estilo.
 
-Seguir essas diretrizes facilita a revisão de sua contribuição, o que agiliza a integração à nossa documentação.
+Seguir essas diretrizes facilita a análise de sua contribuição, o que agiliza a integração à nossa documentação.
 
 ### Idioma e estilo
 
 #### Idioma
 
 * A documentação do ACS foi criada e mantida em inglês americano.
-* Mantenha as sentenças o mais simples possível.
-* Use linguagem clara e concisa.
+* Mantenha as frases o mais simples possível.
+* Mantenha a linguagem clara e concisa.
 
-Lembre-se de que os leitores da documentação do ACS estão espalhados ao redor do mundo, e não espera-se que sejam falantes nativos ou fluentes em inglês. Evite linguagem coloquial, mantendo-a a mais clara e simples possível.
+Lembre-se de que os leitores da documentação do ACS estão espalhados ao redor do mundo, e não espera-se que sejam falantes nativos ou fluentes em inglês. Evite linguagem coloquial e mantenha-a o mais clara e simples possível.
 
-#### Siga o Manual de estilo da Microsoft
+#### Siga o Manual de estilo do Microsoft
 
-[O Manual de estilo da Microsoft](https://docs.microsoft.com/pt-br/style-guide/welcome/) é um guia de estilo disponível gratuitamente. Ele se concentra na documentação de softwares, e a documentação do AEM o segue sempre que possível.
+[O Manual de estilo do Microsoft](https://docs.microsoft.com/en-us/style-guide/welcome/) é um guia de estilo disponível gratuitamente. Ele se concentra na documentação de softwares, e a documentação da AEM o segue sempre que possível.
 
 ### Formatação
 
@@ -77,16 +76,16 @@ Lembre-se de que os leitores da documentação do ACS estão espalhados ao redor
 
 ### Capturas de tela
 
-As capturas de tela devem ser utilizadas com critério e somente quando uma descrição textual for insuficiente.
+As capturas de tela devem ser usadas com critério e somente quando uma descrição textual for insuficiente.
 
-Marcadores ou outras anotações em capturas de tela (como quadros vermelhos, setas ou texto) não devem ser usados. Dessa forma, as capturas de tela são mais facilmente reutilizadas ou replicadas em versões localizadas da documentação.
+Marcadores ou outras anotações em capturas de tela (como quadros vermelhos, setas ou texto) não devem ser usados. Dessa forma, as capturas de tela são mais fáceis de reutilizar ou replicar em versões localizadas da documentação.
 
 ### Referências específicas à versão
 
 Evite referências diretas a uma versão específica em todo o conteúdo da documentação, sempre que possível. Isso torna a documentação mais flexível e extensível para versões futuras.
 
-### Uso do Day, AEM, CQ, CRX
+### Uso de Day, AEM, CQ, CRX
 
-O produto sempre deve ser mencionado com o nome completo, **Adobe Experience Manager**, na primeira vez em um artigo. Depois disso, podemos usar **AEM**.
+O produto sempre deve ser mencionado com seu nome completo **Adobe Experience Manager** na primeira vez em um artigo. Depois disso, podemos usar **AEM**.
 
 Não se deve usar Day, Day Software, CQ e CRX, exceto quando for inevitável, como em nomes de classe ou em referência ao histórico do AEM.
